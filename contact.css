@@ -12,3 +12,9 @@ body {
 h1 {
     font-family: 'Cookie', cursive;
 }   
+p{
+    text-indent: 20px;
+}
+h1:hover {
+    color: pink;
+}
