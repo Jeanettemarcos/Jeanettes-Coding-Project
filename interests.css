@@ -1,0 +1,22 @@
+#kimBanner {
+    color: lightpink;
+}
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+img {
+    width: 320px;
+    height: 400px;
+}
+body {
+    font-family: cursive;
+    background-color:black;
+    color: pink;
+}
+h1 {
+    font-family: 'Cookie', cursive;
+}   
+
+div {
+    
+    
+}

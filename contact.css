@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+img {
+    width: 400px;
+    height: 400px;
+}
+body {
+    font-family: monospace;
+    background-color:black;
+    color:purple
+}
+h1 {
+    font-family: 'Cookie', cursive;
+}   

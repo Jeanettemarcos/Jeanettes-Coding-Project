@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+img {
+    width: 320px;
+    height: 300px;
+}
+body {
+    font-family: fantasy;
+    background-color:black;
+    color: white
+}
+h1 {
+    font-family: 'Cookie', cursive;
+}   
+
+div {
+    width: 100%;
+    margin: 10px;
+}
+p{
+    text-indent: 20px;
+}
